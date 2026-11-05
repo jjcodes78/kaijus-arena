@@ -9,7 +9,7 @@
 - I don't receive anything of value or I intend to receive anything with this project.
 - I hope everyone likes it and takes the opportunity to have fun, which is the main purpose of this project. Increase the community of Godzilla Card Game fans and players.
 
-### Home Screen - Art by [Plutus Su](https://www.artstation.com/plutus_su){:target="_blank"}
+### Home Screen - Art by [Plutus Su](https://www.artstation.com/plutus_su)
 ----
 <img width="1703" height="930" alt="image" src="https://github.com/user-attachments/assets/a36c2096-36a0-499c-a314-d709e2c02ba8" />
 
