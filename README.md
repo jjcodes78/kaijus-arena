@@ -21,7 +21,7 @@
 ----
 <img width="1727" height="978" alt="image" src="https://github.com/user-attachments/assets/fedf579a-9090-49bc-88f2-5d8149d672cc" />
 
-# What is implemented - 2026.10.03
+# What is implemented - 2026.11.03
 
 - Creation of decks
 - Import deck list
@@ -32,17 +32,21 @@
 - Mechanics of the collection cards: ESD01, ESD02, EBP01, EBP02 and EBP03
 - The two Starter Decks - ESD01 (Godzilla Minus One - Red) and ESD02 (Heisei Series - Blue)
 
-# Update - 2026.10.04
+# Update - 2026.11.04
 
 - EBP04 card mechanics
 - Graphics configurations
 - Fixes and improvements
+
+# Update - 2026.11.05
+- Sound effects (WIP)
 
 # Roadmap
 
 - Match Replay System
 - Tutorial mode
 - Decklog importing (WIP)
+- Themed sound effects, Cards effects, sounds by trait and card type and more!
 
 Thanks to all! 
 Jorge "darthjj78" Gonçalves
