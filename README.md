@@ -40,8 +40,7 @@
 
 # Roadmap
 
-- Profile and Leveling (EXP)
-- Lobbies for Matchmaking (based on EXP)
+- Match Replay System
 - Tutorial mode
 - Decklog importing (WIP)
 
