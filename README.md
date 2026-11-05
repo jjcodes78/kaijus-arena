@@ -11,11 +11,11 @@
 
 ### Home Screen
 ----
-<img width="1724" height="996" alt="image" src="https://github.com/user-attachments/assets/b14d0789-961d-4b4c-9a0c-87d18ea26928" />
+<img width="1723" height="983" alt="image" src="https://github.com/user-attachments/assets/936622f3-a77d-4434-a2ce-1476ce469de8" />
 
 ### Deckbuilder Screen
 ----
-<img width="1725" height="988" alt="image" src="https://github.com/user-attachments/assets/d8acc2b8-fc88-44b1-9e9b-257b58a7cece" />
+<img width="1723" height="985" alt="image" src="https://github.com/user-attachments/assets/c021aed0-6ac6-44c5-8a67-3ef452d79a4e" />
 
 ### Game Screen
 ----
