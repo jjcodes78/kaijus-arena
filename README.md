@@ -11,6 +11,8 @@
 
 ### Home Screen
 ----
+<img width="1703" height="930" alt="image" src="https://github.com/user-attachments/assets/a36c2096-36a0-499c-a314-d709e2c02ba8" />
+
 <img width="1723" height="983" alt="image" src="https://github.com/user-attachments/assets/936622f3-a77d-4434-a2ce-1476ce469de8" />
 
 ### Deckbuilder Screen
