@@ -32,13 +32,18 @@
 - Mechanics of the collection cards: ESD01, ESD02, EBP01, EBP02 and EBP03
 - The two Starter Decks - ESD01 (Godzilla Minus One - Red) and ESD02 (Heisei Series - Blue)
 
-# Roadmap
+# Update - 2026.10.04
 
 - EBP04 card mechanics
+- Graphics configurations
+- Fixes and improvements
+
+# Roadmap
+
 - Profile and Leveling (EXP)
 - Lobbies for Matchmaking (based on EXP)
 - Tutorial mode
-
+- Decklog importing (WIP)
 
 Thanks to all! 
 Jorge "darthjj78" Gonçalves
