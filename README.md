@@ -4,10 +4,12 @@
 
 ## Disclaimer
 
-- This game its a fan-made project. Not affiliated or endorsed by Toho and Bushroad, that it's owners of registered marks.
+- This game its a fan-made project. Not affiliated or endorsed by Toho and Bushiroad, that it's owners of registered marks.
 - Nothing is being charged or marketed with this.
 - I don't receive anything of value or I intend to receive anything with this project.
 - I hope everyone likes it and takes the opportunity to have fun, which is the main purpose of this project. Increase the community of Godzilla Card Game fans and players.
+- This simulator it's a TOOL, not a replacement for physical play or any other manner of play.
+- This SIM have the exclusive intention help players to test lists, mechanics, decks.
 
 ### Home Screen - Art by [Plutus Su](https://www.artstation.com/plutus_su)
 ----
