@@ -75,13 +75,12 @@ Review your and opponent's plays
 - Bot deck selection
 - Fixes and improvements
 
-# Update 2026.11.12
+# Update - 2026.11.12
 
 - Added tutorial mode
 
 # Roadmap
 
-- Tutorial mode
 - Decklog importing (WIP)
 - Themed sound effects, Cards effects, sounds by trait and card type and more!
 
