@@ -41,6 +41,11 @@ Replay selection (up to 50 replays saved)
 Review your and opponent's plays
 <img width="1601" height="896" alt="image" src="https://github.com/user-attachments/assets/f39fb8ea-1e96-472e-adc9-7e169263be2b" />
 
+### Tutorial Mode
+----
+<img width="1719" height="977" alt="image" src="https://github.com/user-attachments/assets/87c90d0e-efca-4019-92fb-6751c22ccdaf" />
+
+
 
 # What is implemented - 2026.11.03
 
@@ -69,6 +74,10 @@ Review your and opponent's plays
 - Added a turn phase bar - displays at left bottom screen the current phase in turns
 - Bot deck selection
 - Fixes and improvements
+
+# Update 2026.11.12
+
+- Added tutorial mode
 
 # Roadmap
 
